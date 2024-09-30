@@ -29,6 +29,3 @@ We welcome all contributors who want to join us in revolutionizing maritime tech
 - [Planned Maintenance System](https://voyagex.ai/planned-maintenance-system/)
 - [Crew Management Software](https://voyagex.ai/crew-management-software/)
 - [AI-Powered Maritime Solutions](https://voyagex.ai/ai-powered-maritime-solutions/)
-
-## 📜 **License**
-VoyageX AI is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
